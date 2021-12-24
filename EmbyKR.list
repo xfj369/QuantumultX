@@ -1,3 +1,4 @@
 # > Emby卡戎服务器
 USER-AGENT,Emby*,Emby
+HOST-SUFFIX,charontv.com,Emby
 HOST-SUFFIX,play.charontv.com,Emby
