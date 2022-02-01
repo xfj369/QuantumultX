@@ -1,0 +1,16 @@
+# > PrimeVideo规则
+user-agent, InstantVideo.US*, PrimeVideo
+user-agent, Prime%20Video*, PrimeVideo
+user-agent, PrimeVideo*, PrimeVideo
+host-suffix, aiv-cdn.net, PrimeVideo
+host-suffix, aiv-delivery.net, PrimeVideo
+host-suffix, amazonvideo.com, PrimeVideo
+host-suffix, primevideo.com, PrimeVideo
+host, avodmp4s3ww-a.akamaihd.net, PrimeVideo
+host, d25xi40x97liuc.cloudfront.net, PrimeVideo
+host, dmqdd6hw24ucf.cloudfront.net, PrimeVideo
+host, d22qjgkvxw22r6.cloudfront.net, PrimeVideo
+host, d1v5ir2lpwr8os.cloudfront.net, PrimeVideo
+host-keyword, avoddashs, PrimeVideo
+host, device-metrics-us.amazon.com, PrimeVideo
+host, msh.amazon.co.uk, PrimeVideo
