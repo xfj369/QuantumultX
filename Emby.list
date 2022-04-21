@@ -26,3 +26,5 @@ HOST-SUFFIX,embyclub.nl,Emby
 HOST-SUFFIX,jp.embyclub.nl,Emby
 HOST-SUFFIX,kr.embyclub.nl,Emby
 HOST-SUFFIX,azsgp.embyclub.nl,Emby
+# > MisakaF服务器
+HOST-SUFFIX,emby.misakaf.xyz,Emby
