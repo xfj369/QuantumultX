@@ -19,12 +19,5 @@ HOST-SUFFIX,pub2.emby.wtf,Emby
 HOST-SUFFIX,pub2cm1.emby.wtf,Emby
 HOST-SUFFIX,pub3.emby.wtf,Emby
 HOST-SUFFIX,pub3cm1.emby.wtf,Emby
-# > Emby猫熊服务器
-HOST-SUFFIX,embyclub.org,Emby
-HOST-SUFFIX,20.189.99.35,Emby
-HOST-SUFFIX,embyclub.nl,Emby
-HOST-SUFFIX,jp.embyclub.nl,Emby
-HOST-SUFFIX,kr.embyclub.nl,Emby
-HOST-SUFFIX,azsgp.embyclub.nl,Emby
 # > MisakaF服务器
 HOST-SUFFIX,emby.misakaf.xyz,Emby
